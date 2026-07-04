@@ -12,3 +12,7 @@ This is my personal portfolio website built using HTML, CSS, Flexbox, and CSS Gr
 - CSS
 - Flexbox
 - CSS Grid
+  
+Live Demo
+- GitHub Pages: https://fereha.github.io/shiera-m1w3/
+- Vercel: https://shiera-m1w3-alpha.vercel.app/
